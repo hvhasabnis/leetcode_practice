@@ -1,6 +1,6 @@
-# 🧩 LeetCode Practice
+# 🧩 DSA Practice
 
-Personal repository to track my LeetCode problem-solving journey. Solutions are written in **C++** and organized by topic.
+Personal repository to track my problem-solving journey. Solutions are written in **C++** and organized by topic.
 
 ---
 
