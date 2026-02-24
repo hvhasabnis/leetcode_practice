@@ -32,4 +32,4 @@ leetcode_practice/
 
 ## 🔗 Links
 
-- [LeetCode Profile](https://leetcode.com/u/hvhasabnis/)
+- [LeetCode Profile](https://leetcode.com/u/hvhasabnis1911/)
