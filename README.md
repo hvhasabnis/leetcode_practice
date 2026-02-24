@@ -7,16 +7,17 @@ Personal repository to track my LeetCode problem-solving journey. Solutions are 
 ## 📁 Structure
 ```
 leetcode_practice/
-├── arrays/
-├── strings/
-├── linked_list/
-├── trees/
-├── graphs/
-├── dynamic_programming/
-├── sorting_and_searching/
-├── stack_and_queue/
-├── math/
-└── sql/
+├── Arrays & Strings/ (Easy - 0, Medium - 0, Hard - 0)
+├── Linked List/ (Easy - 0, Medium - 0, Hard - 0)
+├── Recursion/ (Easy - 0, Medium - 0, Hard - 0)
+├── Stack & Queue/ (Easy - 0, Medium - 0, Hard - 0)
+├── Sliding Window/ (Easy - 0, Medium - 0, Hard - 0)
+├── Heaps/ (Easy - 0, Medium - 0, Hard - 0)
+├── Greedy Algorithms/ (Easy - 0, Medium - 0, Hard - 0)
+├── Trees/ (Easy - 0, Medium - 0, Hard - 0)
+├── Graphs/ (Easy - 0, Medium - 0, Hard - 0)
+├── Dynamic Programming/ (Easy - 0, Medium - 0, Hard - 0)
+└── Miscellaneous/ (Easy - 7, Medium - 0, Hard - 0)
 ```
 
 ## 📊 Progress
@@ -26,7 +27,7 @@ leetcode_practice/
 | 🟢 Easy    | 7      |
 | 🟡 Medium  | 0      |
 | 🔴 Hard    | 0      |
-| **Total**  | **0**  |
+| **Total**  | **7**  |
 
 ---
 
