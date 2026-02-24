@@ -6,7 +6,7 @@ Personal repository to track my problem-solving journey. Solutions are written i
 
 ## 📁 Structure
 ```
-leetcode_practice/
+dsa_practice/
 ├── Arrays & Strings/ (Easy - 0, Medium - 0, Hard - 0)
 ├── Linked List/ (Easy - 0, Medium - 0, Hard - 0)
 ├── Recursion/ (Easy - 0, Medium - 0, Hard - 0)
