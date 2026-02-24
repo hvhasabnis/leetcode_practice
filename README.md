@@ -23,7 +23,7 @@ leetcode_practice/
 
 | Difficulty | Solved |
 |------------|--------|
-| 🟢 Easy    | 0      |
+| 🟢 Easy    | 7      |
 | 🟡 Medium  | 0      |
 | 🔴 Hard    | 0      |
 | **Total**  | **0**  |
